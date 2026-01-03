@@ -10,7 +10,7 @@ Overal Algorithm: Development
 
 Flipper Zero UI/UX: Development
 
-Infrared Communication: Research
+Infrared Communication: Development
 
 Elliptic Curve Algorithm: Research
 
